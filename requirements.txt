@@ -2,3 +2,6 @@ uvicorn~=0.18.3
 fastapi~=0.81.0
 pydantic~=1.10.1
 sqlalchemy
+aiogram
+aiogram-dialog
+aiosqlite
